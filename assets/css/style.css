@@ -259,6 +259,43 @@ article .news_resume {
     margin: 5px;
 }
 
+.appointment_title {
+    margin-bottom: 16px;
+}
+
+.line_appointment {
+    display: flex;
+    flex: 1;
+    border-color: #cccccc;
+    border-style: solid none none;
+    border-width: 1px 0px 0px;
+}
+
+.gray_box {
+    background-color: #CCC;
+    width: 30px;
+    height: 30px;
+    margin-top: 15px;
+    margin-bottom: 15px
+}
+
+.first_text {
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.seconde_text {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.seconde_text a{
+    text-decoration: none;
+    border-bottom: 1px dotted blue;
+    color: blue;
+}
+
 footer {
     background-color: #1e1e1e;
     display: flex;
@@ -295,6 +332,52 @@ footer {
 
 .footer_area {
     display: flex;
+}
+
+.first_text_col {
+    color: #5c5c5c;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.text_col {
+    color: #5c5c5c;
+    font-size: 12px;
+}
+
+.text_col a {
+    text-decoration: none;
+    color: white;
+}
+
+.column_post {
+    margin-left: 20px;
+}
+
+.lates_post {
+    font-size: 12px;
+}
+
+.years {
+    color: #36a9e1;
+    font-size:  12px;
+    margin-bottom: 10px;
+}
+
+.margin_tweets {
+    margin-left: 20px;
+}
+
+.Tweests {
+    font-size: 12px;
+    color: #5c5c5c;
+}
+
+.days {
+    font-size: 12px;
+    color: #36a9e1;
+    margin-top: 5px;
+    margin-bottom: 10px;
 }
 
 .flexColumn {
